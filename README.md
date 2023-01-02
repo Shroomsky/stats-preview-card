@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Site mobile preview](./screenshot_1.jpg)
-![Site desktop preview](./screenshot_2.jpg)
+![Site mobile preview](screenshot_1.jpg)
+![Site desktop preview](screenshot_2.jpg)
 
 
 
