@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -8,9 +8,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
 - [My process](#my-process)
-  - [Built with](#built-with)  
+  - [Built with](#built-with)
 - [Author](#author)
-
 
 ## Overview
 
@@ -22,26 +21,21 @@ Users should be able to:
 
 ### Screenshot
 
-![Site mobile preview](screenshot_1.jpg)
-![Site desktop preview](screenshot_2.jpg)
-
-
+![Site mobile preview](screenshot_1.png)
+![Site desktop preview](screenshot_2.png)
 
 ### Links
 
 - Solution URL: [My Solution (webpage)](https://your-solution-url.com)
 
-
 ## My process
 
 ### Built with
-
 
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
 
 ## Author
 
