@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution (webpage)](https://your-solution-url.com)
+- Solution URL: [My Solution (webpage)](https://shroomsky.github.io/stats-preview-card/)
 
 ## My process
 
