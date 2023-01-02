@@ -145,8 +145,6 @@ button {
 }
 
 .footer {
-  position: -webkit-sticky;
-  position: sticky;
   bottom: 0;
   padding: 0.5rem;
   width: 100%;
