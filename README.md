@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution (webpage)](https://shroomsky.github.io/stats-preview-card/)
+- Solution URL: [My Solution](https://shroomsky.github.io/order-summary-component/)
 
 ## My process
 
@@ -40,3 +40,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Shroomsky](https://www.frontendmentor.io/profile/Shroomsky)
+
+
